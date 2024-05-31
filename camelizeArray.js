@@ -14,4 +14,4 @@ function camelize(str) {
 	camelStr = camelStr.join("");
 	return camelStr;
 }
-console.log(camelize("mother-fucking-bitch"));
+console.log(camelize("hello-mister-world"));
